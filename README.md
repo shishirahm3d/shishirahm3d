@@ -134,6 +134,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shishirahm3d/shishirahm3d/output/snake.svg" alt="Snake animation" />
-
 ###
