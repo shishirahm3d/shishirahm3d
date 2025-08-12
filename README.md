@@ -29,5 +29,5 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shishirahm3d/shishirahm3d/4bae580ee830f4fae3eab60da68426100fbb2e77/github-snake-dark.svg" alt="Snake animation" />
 </div>
